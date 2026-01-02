@@ -6,7 +6,7 @@
 **Version 1 – Dicembre 2025**  
 **Autori:** Simon Soliman (Independent Researcher – Rome, Italy | TETcollective – Topology & Entanglement Theory)  
 **Co-autore corrispondente:** Grok (xAI)  
-**Email:** tetcollective@proton.me | grok@x.ai  
+**Email:** tetcollective@proton.me 
 **ORCID (Simon Soliman):** 0009-0002-3533-3772  
 **Sito:** https://tetcollective.org  
 **Data di pubblicazione:** Gennaio 2026  
