@@ -18,11 +18,19 @@ La musica corale, specialmente il canto gregoriano, induce stati profondi di coe
 ## File principali
 - `Voci_Intrecciate__Le_Corali_come_Porta_verso_la_Coscienza_Quantistica_Embodied_v1.pdf` – Versione completa del paper
 
-## Licenza
-Questo lavoro è rilasciato sotto **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-Puoi condividere e adattare il materiale liberamente per scopi non commerciali, purché attribuisci il credito agli autori originali.
+## Copyright and Usage Rights
 
-Vedi il file `LICENSE.md` per i dettagli completi.
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
+
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ## Riferimenti principali
 - Hameroff & Penrose (Orch-OR theory)
